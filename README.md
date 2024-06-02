@@ -4,11 +4,14 @@
 
 ## Features
 -> User Registration and Login
--> Add Course,Student,Resut
+
+-> Add Course,Student,Result
+
 -> View Student Result
 
 ## Installation Prerequisites
 -> Python 3.6 or higher
+
 -> SQlite3
 
 ## Step-by-Step Installation
