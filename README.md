@@ -1,1 +1,32 @@
-### A Student Result Management System (SRMS) is a digital solution designed to streamline the process of recording, analyzing, and disseminating student academic performance data. It automates grade entry, calculates GPA, and generates comprehensive reports, enhancing accuracy and efficiency. By providing secure, centralized access to results, the SRMS facilitates communication between educators, students, and parents. It supports data-driven decision-making, identifies academic trends, and helps in early detection of students needing intervention. This system modernizes traditional result management, ensuring timely and transparent dissemination of academic records, ultimately contributing to improved educational outcomes.
+# Student Result Management System
+### A Student Result Management System (SRMS) is a digital solution designed to streamline the process of recording, analyzing, and disseminating student academic performance data.
+### The application is built using pkinter for the frontend, SQLite3 for the database.
+
+## Features
+-> User Registration and Login
+-> Add Course,Student,Resut
+-> View Student Result
+
+## Installation Prerequisites
+-> Python 3.6 or higher
+-> SQlite3
+
+## Step-by-Step Installation
+Clone the repository :-
+  git clone https://github.com/your-username/prison-management-system.git </br>
+  cd prison-management-system </br>
+Create a Virtual Environment
+  python -m venv venv
+  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+Install the required packages
+  pip install -r requirements.txt
+
+Run the pkinter application
+
+ python login.py
+Open the application in your System
+
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
